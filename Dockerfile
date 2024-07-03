@@ -79,6 +79,7 @@ RUN \
     beets==${BEETS_VERSION} \
     beets-extrafiles \
     beetcamp \
+    drop2beets \
     discogs-client \
     flask \
     PyGObject \
